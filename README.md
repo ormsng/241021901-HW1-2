@@ -1,9 +1,5 @@
 <img width="73" alt="image" src="https://github.com/user-attachments/assets/330484b7-597a-44d8-af52-757988ba45cb">
 
-# Card Game App
-
-This SwiftUI app offers an engaging card game experience that utilizes location services and integrates with an external API for card deck management.
-
 ## Description
 
 The app begins with a welcome screen where users can enter their name and view their current location. Once ready, players can start the game, which involves drawing cards and competing against a computer opponent. The game's visual layout adjusts based on the player's geographical location.
